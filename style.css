@@ -1,0 +1,17 @@
+.fakegoogle{
+align-content: center;
+}
+.logo{
+width:600px;
+}
+.searchbox{
+width:400px;
+}
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.divcenter{
+text-align: center;
+}
